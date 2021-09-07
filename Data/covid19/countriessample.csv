@@ -71,7 +71,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 1/22/2020,Grenada;North America,,0,0
 1/22/2020,Guatemala;North America,,0,0
 1/22/2020,Guinea;Africa,,0,0
-1/22/2020,Guinea;Bissau;Africa,,0,0
 1/22/2020,Guyana;South America,,0,0
 1/22/2020,Haiti;North America,,0,0
 1/22/2020,Holy See;Unknown,,0,0
@@ -259,7 +258,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 1/23/2020,Grenada;North America,0,0,0
 1/23/2020,Guatemala;North America,0,0,0
 1/23/2020,Guinea;Africa,0,0,0
-1/23/2020,Guinea;Bissau;Africa,0,0,0
 1/23/2020,Guyana;South America,0,0,0
 1/23/2020,Haiti;North America,0,0,0
 1/23/2020,Holy See;Unknown,0,0,0
@@ -447,7 +445,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 1/24/2020,Grenada;North America,,,0
 1/24/2020,Guatemala;North America,,,0
 1/24/2020,Guinea;Africa,,,0
-1/24/2020,Guinea;Bissau;Africa,,,0
 1/24/2020,Guyana;South America,,,0
 1/24/2020,Haiti;North America,,,0
 1/24/2020,Holy See;Unknown,,,0
@@ -635,7 +632,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 1/25/2020,Grenada;North America,0,0,0
 1/25/2020,Guatemala;North America,0,0,0
 1/25/2020,Guinea;Africa,0,0,0
-1/25/2020,Guinea;Bissau;Africa,0,0,0
 1/25/2020,Guyana;South America,0,0,0
 1/25/2020,Haiti;North America,0,0,0
 1/25/2020,Holy See;Unknown,0,0,0
@@ -823,7 +819,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 1/26/2020,Grenada;North America,0,0,0
 1/26/2020,Guatemala;North America,0,0,0
 1/26/2020,Guinea;Africa,0,0,0
-1/26/2020,Guinea;Bissau;Africa,0,0,0
 1/26/2020,Guyana;South America,0,0,0
 1/26/2020,Haiti;North America,0,0,0
 1/26/2020,Holy See;Unknown,0,0,0
@@ -967,7 +962,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/2/2020,Grenada;North America,23,18,0
 6/2/2020,Guatemala;North America,5586,824,123
 6/2/2020,Guinea;Africa,3886,2267,23
-6/2/2020,Guinea;Bissau;Africa,1339,53,8
 6/2/2020,Guyana;South America,153,70,12
 6/2/2020,Haiti;North America,2226,24,45
 6/2/2020,Holy See;Unknown,12,2,0
@@ -1155,7 +1149,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/3/2020,Grenada;North America,23,18,0
 6/3/2020,Guatemala;North America,5760,929,143
 6/3/2020,Guinea;Africa,3933,2332,23
-6/3/2020,Guinea;Bissau;Africa,1339,53,8
 6/3/2020,Guyana;South America,153,70,12
 6/3/2020,Haiti;North America,2507,24,48
 6/3/2020,Holy See;Unknown,12,2,0
@@ -1343,7 +1336,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/4/2020,Grenada;North America,23,18,0
 6/4/2020,Guatemala;North America,6154,979,158
 6/4/2020,Guinea;Africa,3991,2512,23
-6/4/2020,Guinea;Bissau;Africa,1339,53,8
 6/4/2020,Guyana;South America,153,77,12
 6/4/2020,Haiti;North America,2640,24,50
 6/4/2020,Holy See;Unknown,12,2,0
@@ -1531,7 +1523,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/5/2020,Grenada;North America,23,22,0
 6/5/2020,Guatemala;North America,6485,1053,216
 6/5/2020,Guinea;Africa,4060,2667,23
-6/5/2020,Guinea;Bissau;Africa,1368,153,12
 6/5/2020,Guyana;South America,153,77,12
 6/5/2020,Haiti;North America,2740,24,50
 6/5/2020,Holy See;Unknown,12,2,0
@@ -1719,7 +1710,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/6/2020,Grenada;North America,23,22,0
 6/6/2020,Guatemala;North America,6792,1133,230
 6/6/2020,Guinea;Africa,4117,2857,23
-6/6/2020,Guinea;Bissau;Africa,1368,153,12
 6/6/2020,Guyana;South America,154,80,12
 6/6/2020,Haiti;North America,3072,24,50
 6/6/2020,Holy See;Unknown,12,12,0
@@ -1907,7 +1897,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/7/2020,Grenada;North America,23,22,0
 6/7/2020,Guatemala;North America,7055,1261,252
 6/7/2020,Guinea;Africa,4117,2877,23
-6/7/2020,Guinea;Bissau;Africa,1368,153,12
 6/7/2020,Guyana;South America,154,80,12
 6/7/2020,Haiti;North America,3334,24,51
 6/7/2020,Holy See;Unknown,12,12,0
@@ -2095,7 +2084,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/8/2020,Grenada;North America,23,22,0
 6/8/2020,Guatemala;North America,7502,1323,267
 6/8/2020,Guinea;Africa,4216,2918,23
-6/8/2020,Guinea;Bissau;Africa,1389,153,12
 6/8/2020,Guyana;South America,154,84,12
 6/8/2020,Haiti;North America,3538,24,54
 6/8/2020,Holy See;Unknown,12,12,0
@@ -2283,7 +2271,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/9/2020,Grenada;North America,23,22,0
 6/9/2020,Guatemala;North America,7866,1413,289
 6/9/2020,Guinea;Africa,4258,2942,23
-6/9/2020,Guinea;Bissau;Africa,1389,153,12
 6/9/2020,Guyana;South America,156,86,12
 6/9/2020,Haiti;North America,3662,24,56
 6/9/2020,Holy See;Unknown,12,12,0
@@ -2471,7 +2458,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/10/2020,Grenada;North America,23,22,0
 6/10/2020,Guatemala;North America,8221,1504,316
 6/10/2020,Guinea;Africa,4258,2942,23
-6/10/2020,Guinea;Bissau;Africa,1389,153,12
 6/10/2020,Guyana;South America,156,92,12
 6/10/2020,Haiti;North America,3796,24,58
 6/10/2020,Holy See;Unknown,12,12,0
@@ -2659,7 +2645,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/11/2020,Grenada;North America,23,22,0
 6/11/2020,Guatemala;North America,8561,1567,334
 6/11/2020,Guinea;Africa,4372,3033,23
-6/11/2020,Guinea;Bissau;Africa,1389,153,12
 6/11/2020,Guyana;South America,158,92,12
 6/11/2020,Haiti;North America,3941,24,64
 6/11/2020,Holy See;Unknown,12,12,0
@@ -2847,7 +2832,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/12/2020,Grenada;North America,23,22,0
 6/12/2020,Guatemala;North America,8982,1702,351
 6/12/2020,Guinea;Africa,4426,3106,24
-6/12/2020,Guinea;Bissau;Africa,1460,153,15
 6/12/2020,Guyana;South America,159,95,12
 6/12/2020,Haiti;North America,3941,24,64
 6/12/2020,Holy See;Unknown,12,12,0
@@ -3035,7 +3019,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/13/2020,Grenada;North America,23,22,0
 6/13/2020,Guatemala;North America,9491,1804,367
 6/13/2020,Guinea;Africa,4484,3213,25
-6/13/2020,Guinea;Bissau;Africa,1460,153,15
 6/13/2020,Guyana;South America,159,95,12
 6/13/2020,Haiti;North America,4165,24,70
 6/13/2020,Holy See;Unknown,12,12,0
@@ -3223,7 +3206,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/14/2020,Grenada;North America,23,22,0
 6/14/2020,Guatemala;North America,9845,1886,384
 6/14/2020,Guinea;Africa,4532,3234,25
-6/14/2020,Guinea;Bissau;Africa,1460,153,15
 6/14/2020,Guyana;South America,159,99,12
 6/14/2020,Haiti;North America,4165,24,70
 6/14/2020,Holy See;Unknown,12,12,0
@@ -3411,7 +3393,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/15/2020,Grenada;North America,23,22,0
 6/15/2020,Guatemala;North America,10272,1966,399
 6/15/2020,Guinea;Africa,4572,3259,26
-6/15/2020,Guinea;Bissau;Africa,1492,153,15
 6/15/2020,Guyana;South America,159,99,12
 6/15/2020,Haiti;North America,4441,24,76
 6/15/2020,Holy See;Unknown,12,12,0
@@ -3599,7 +3580,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/16/2020,Grenada;North America,23,22,0
 6/16/2020,Guatemala;North America,10706,2096,418
 6/16/2020,Guinea;Africa,4639,3327,26
-6/16/2020,Guinea;Bissau;Africa,1492,153,15
 6/16/2020,Guyana;South America,171,99,12
 6/16/2020,Haiti;North America,4547,24,80
 6/16/2020,Holy See;Unknown,12,12,0
@@ -3787,7 +3767,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/17/2020,Grenada;North America,23,22,0
 6/17/2020,Guatemala;North America,11251,2200,432
 6/17/2020,Guinea;Africa,4668,3364,26
-6/17/2020,Guinea;Bissau;Africa,1492,153,15
 6/17/2020,Guyana;South America,171,102,12
 6/17/2020,Haiti;North America,4688,24,82
 6/17/2020,Holy See;Unknown,12,12,0
@@ -3975,7 +3954,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/18/2020,Grenada;North America,23,23,0
 6/18/2020,Guatemala;North America,11868,2290,449
 6/18/2020,Guinea;Africa,4841,3467,26
-6/18/2020,Guinea;Bissau;Africa,1492,153,15
 6/18/2020,Guyana;South America,183,102,12
 6/18/2020,Haiti;North America,4916,24,84
 6/18/2020,Holy See;Unknown,12,12,0
@@ -4163,7 +4141,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/19/2020,Grenada;North America,23,23,0
 6/19/2020,Guatemala;North America,12509,2419,483
 6/19/2020,Guinea;Africa,4904,3522,27
-6/19/2020,Guinea;Bissau;Africa,1541,153,17
 6/19/2020,Guyana;South America,183,102,12
 6/19/2020,Haiti;North America,4980,24,87
 6/19/2020,Holy See;Unknown,12,12,0
@@ -4351,7 +4328,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/20/2020,Grenada;North America,23,23,0
 6/20/2020,Guatemala;North America,12755,2558,514
 6/20/2020,Guinea;Africa,4960,3630,27
-6/20/2020,Guinea;Bissau;Africa,1541,153,17
 6/20/2020,Guyana;South America,183,102,12
 6/20/2020,Haiti;North America,5077,24,88
 6/20/2020,Holy See;Unknown,12,12,0
@@ -4539,7 +4515,6 @@ Date,CountryRegion,Confirmed,Recovered,Deaths
 6/21/2020,Grenada;North America,23,23,0
 6/21/2020,Guatemala;North America,13145,2711,531
 6/21/2020,Guinea;Africa,4988,3669,27
-6/21/2020,Guinea;Bissau;Africa,1541,153,17
 6/21/2020,Guyana;South America,184,103,12
 6/21/2020,Haiti;North America,5077,24,88
 6/21/2020,Holy See;Unknown,12,12,0
